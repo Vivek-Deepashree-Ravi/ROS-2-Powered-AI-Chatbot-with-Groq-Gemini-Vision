@@ -1,0 +1,12 @@
+# config.yaml
+
+groq_api_key: "<YOUR_GROQ_API_KEY>"  # Add your Groq API key here
+genai_api_key: "<YOUR_GENAI_API_KEY>"  # Add your Google GenAI API key here
+
+sys_msg: |
+  Write your system prompt here according to your use case.
+  For example: Define the AI’s personality, tone, and response style.
+
+vision_prompt: |
+  Write your vision analysis prompt here based on your needs.
+  For example: Define how the AI should describe the live video feed.
